@@ -1,0 +1,108 @@
+footer {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+.App {
+    text-align: center;
+}
+
+.iconText {
+    margin: 0 0.5rem;
+}
+
+.navbarStyle {
+    padding: 0.5rem 1rem !important;
+}
+
+.navbarButton {
+    color: #fff !important;
+    padding: 0.5rem 1rem !important;
+}
+
+.iconText {
+    margin: 0 0.5rem;
+}
+
+.navbarStyle {
+    padding: 0.5rem 1rem;
+}
+
+.navbarButton {
+    color: #fff !important;
+}
+
+.data-area-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.todo-form {
+    width: 60%;
+}
+
+.todo-list {
+    width: 60%;
+}
+
+.todo-label {
+    font-size: large;
+    margin-right: 22%;
+    margin-left: 3%;
+}
+
+.todo-view-btn {
+    float: right;
+}
+
+.warningMessage {
+    color: red;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.signInButton {
+    margin: 1rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    word-break: break-word;
+    max-width: 34rem;
+    padding: 1rem;
+    font-weight: 500;
+}
+
+.expandBtn {
+    margin: 0.5rem;
+    background-color: rgb(49, 108, 244);
+    border-radius: 5px;
+    color: white;
+}
+
+.showButton {
+    margin: 2.5rem;
+    padding: 0.2rem 8rem;
+    font-size: 1.5rem;
+    background-color: rgb(49, 108, 244);
+    border-radius: 10px;
+    color: white;
+}
+
+.todoTable {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.todoDescription {
+    text-align: left;
+}
