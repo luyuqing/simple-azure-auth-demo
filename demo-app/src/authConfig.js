@@ -13,7 +13,7 @@ import { LogLevel } from '@azure/msal-browser';
 
 export const msalConfig = {
     auth: {
-        clientId: '3f5b852a-95a9-4cbc-9a20-e22a278a47d2', // This is the ONLY mandatory field that you need to supply.
+        clientId: '4a2fe6bd-beeb-45b4-a7ef-f883cc395182', // This is the ONLY mandatory field that you need to supply.
         authority: 'https://login.microsoftonline.com/d2079882-f0d4-40c0-ac0e-9eda809ad4db', // Replace the placeholder with your tenant subdomain 
         redirectUri: '/', // Points to window.location.origin. You must register this URI on Azure Portal/App Registration.
         postLogoutRedirectUri: '/', // Indicates the page to navigate after logout.
@@ -63,7 +63,7 @@ export const loginRequest = {
 };
 
 export const tokenRequest = {
-    scopes:["api://e2f86c40-4baf-41bb-bb52-ea982e917660/TodoRead"]
+    scopes:["api://6299cd78-e85c-4a78-9ad0-74d93b895ecd/Todo.Read"]
 }
 
 /**

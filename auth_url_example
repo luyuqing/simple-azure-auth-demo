@@ -1,0 +1,14 @@
+https://login.microsoftonline.com/d2079882-f0d4-40c0-ac0e-9eda809ad4db/oauth2/v2.0/authorize?
+client_id=3f5b852a-95a9-4cbc-9a20-e22a278a47d2
+&scope=openid%20profile%20offline_access
+&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2F
+&response_mode=fragment
+&response_type=code
+&code_challenge=IIq1Nt28a2RGlcMhUDp1dlJY1AIDinqxgEQJYqxZX4I
+&code_challenge_method=S256
+&prompt=select_account
+&nonce=26590430-7ed8-4b4c-9dd4-162cd0497838&state=eyJpZCI6Ijg4ODhmOTQxLTU0NGEtNDE3ZC05YzlhLTgzMWI1MmZjODcyOSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D
+&client-request-id=f63827d4-4b81-448f-87a9-5154610afdfe
+&x-client-SKU=msal.js.browser
+&x-client-VER=3.5.0
+&client_info=1
