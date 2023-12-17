@@ -1,3 +1,3 @@
 # Simple Azure Authentication Demo
 
-This repository contains a demonstration of a simple Azure authentication flow with a `demo-app` and a `DemoAPI`. The app(SPA) authenticates users via Azure AD and then sends the obtained access token to the API for authorization.
+This repo showcases a simple Azure OIDC authentication flow including a `demo-app` and a `DemoAPI`. The single-page app authenticates users through Azure AD and subsequently sends the acquired access token to the API for authorization.
